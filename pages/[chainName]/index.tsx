@@ -11,7 +11,7 @@ const MultiPage = () => {
       <StackableContainer base>
         <StackableContainer lessPadding>
           <h1 className="title">
-            <span>{chain.chainDisplayName}</span> Multisig Manager
+            <span>{chain.chainDisplayName}</span> Multisig Manager - PageDAO
           </h1>
         </StackableContainer>
         <FindMultisigForm />

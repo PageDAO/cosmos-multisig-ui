@@ -12,7 +12,7 @@ This app allows for multisig users to create, sign and broadcast transactions on
 
 This app uses Vercel for deployment and hosting, since they support next.js's serverless functions. You will need a vercel account to deploy this app. Use the button below to one-click clone and deploy this repo. The initial deployment will fail until all the necessary environment variables are input from the following steps.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpagedao%2Fcosmos-multisig-ui)
 
 ### 2. Setup environment variables
 
